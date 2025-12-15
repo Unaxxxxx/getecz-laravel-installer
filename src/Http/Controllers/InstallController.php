@@ -60,9 +60,11 @@ class InstallController extends Controller
         ];
 
         // Force safe drivers during install (prevents "cache table not found" crashes)
+        /*
         foreach ((array) config('installer.safe_env', []) as $k => $v) {
             $pairs[$k] = $v;
         }
+         */
 
         $this->writeEnv($pairs);
 
