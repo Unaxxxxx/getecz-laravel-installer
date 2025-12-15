@@ -1,6 +1,6 @@
 # Getecz Laravel Installer
 
-[ezgif-8ef52ffdd521e359.gif](https://postimg.cc/7GCqCnLY)
+![](https://i.postimg.cc/MT5HFs2R/ezgif-8ef52ffdd521e359.gif)
 
 A lightweight installer wizard package for **Laravel 12** applications.
 
